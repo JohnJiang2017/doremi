@@ -1,5 +1,5 @@
 # adopt-pets
-
+Welcome, Teach Candle!
 ## Project setup
 ```
 npm install
